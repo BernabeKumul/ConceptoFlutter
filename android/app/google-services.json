@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "674479884481",
+    "firebase_url": "https://appdemo-4136f.firebaseio.com",
+    "project_id": "appdemo-4136f",
+    "storage_bucket": "appdemo-4136f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674479884481:android:f0bcaf082722783a12ec40",
+        "android_client_info": {
+          "package_name": "com.example.app_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674479884481-3udj38kebu3dnd7a73n6jl5pr9hsir45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmtkvX19B3Zv3FDGRUXc29kSDozTwoJ94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674479884481-3udj38kebu3dnd7a73n6jl5pr9hsir45.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "674479884481-u086v6tdrcimo51a2pb1tjc21rppcpk3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.luigyoliva.appDemo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674479884481:android:19453f10ca7446a712ec40",
+        "android_client_info": {
+          "package_name": "com.example.servicio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674479884481-3udj38kebu3dnd7a73n6jl5pr9hsir45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmtkvX19B3Zv3FDGRUXc29kSDozTwoJ94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674479884481-3udj38kebu3dnd7a73n6jl5pr9hsir45.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "674479884481-u086v6tdrcimo51a2pb1tjc21rppcpk3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.luigyoliva.appDemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
